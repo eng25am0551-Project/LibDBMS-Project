@@ -1,0 +1,148 @@
+[
+  {
+    "book_id": "BK001",
+    "metadata": {
+      "subjects": [
+        "software engineering",
+        "clean code",
+        "programming"
+      ],
+      "languages": [
+        "English"
+      ],
+      "keywords": [
+        "refactoring",
+        "readability",
+        "testing"
+      ],
+      "editions": [
+        {
+          "edition": 1,
+          "year": 2008,
+          "format": "hardcover",
+          "isbn": "9780132350884"
+        },
+        {
+          "edition": 2,
+          "year": 2020,
+          "format": "ebook",
+          "isbn": "9780136083238"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "student_demo_01",
+          "rating": 5,
+          "comment": "Useful examples for writing maintainable code."
+        },
+        {
+          "reviewer": "student_demo_02",
+          "rating": 4,
+          "comment": "Good reference for software projects."
+        }
+      ],
+      "related_topics": {
+        "course": [
+          "Software Engineering"
+        ],
+        "skills": [
+          "refactoring",
+          "unit testing"
+        ]
+      }
+    },
+    "updated_at": "2026-11-10T00:00:00Z"
+  },
+  {
+    "book_id": "BK002",
+    "metadata": {
+      "subjects": [
+        "algorithms",
+        "data structures",
+        "computer science"
+      ],
+      "languages": [
+        "English"
+      ],
+      "keywords": [
+        "graphs",
+        "sorting",
+        "dynamic programming"
+      ],
+      "editions": [
+        {
+          "edition": 3,
+          "year": 2009,
+          "format": "hardcover",
+          "isbn": "9780262033848"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "student_demo_03",
+          "rating": 5,
+          "comment": "Comprehensive algorithms reference."
+        }
+      ],
+      "related_topics": {
+        "course": [
+          "Data Structures",
+          "Design and Analysis of Algorithms"
+        ],
+        "skills": [
+          "problem solving"
+        ]
+      }
+    },
+    "updated_at": "2026-11-10T00:00:00Z"
+  },
+  {
+    "book_id": "BK003",
+    "metadata": {
+      "subjects": [
+        "Python",
+        "programming",
+        "software development"
+      ],
+      "languages": [
+        "English"
+      ],
+      "keywords": [
+        "data model",
+        "iterators",
+        "concurrency"
+      ],
+      "editions": [
+        {
+          "edition": 1,
+          "year": 2015,
+          "format": "paperback",
+          "isbn": "9781491946008"
+        },
+        {
+          "edition": 2,
+          "year": 2022,
+          "format": "paperback",
+          "isbn": "9781492056355"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "student_demo_04",
+          "rating": 5,
+          "comment": "Detailed Python examples."
+        }
+      ],
+      "related_topics": {
+        "course": [
+          "Python Programming"
+        ],
+        "skills": [
+          "Python",
+          "OOP"
+        ]
+      }
+    },
+    "updated_at": "2026-11-10T00:00:00Z"
+  }
+]
